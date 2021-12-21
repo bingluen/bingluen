@@ -23,7 +23,7 @@
     - [我們如何為登山申請打造一站式服務系統
     ](https://pdis.nat.gov.tw/zh-TW/blog/%E6%88%91%E5%80%91%E5%A6%82%E4%BD%95%E7%82%BA%E7%99%BB%E5%B1%B1%E7%94%B3%E8%AB%8B%E6%89%93%E9%80%A0%E4%B8%80%E7%AB%99%E5%BC%8F%E6%9C%8D%E5%8B%99%E7%B3%BB%E7%B5%B1/)
 * [CodiMD on Sandstorm](https://github.com/pdis/codimd-sandstorm)
-* [國立交通大學資訊學院招生系統](https://admission.cs.nctu.edu.tw/)
+* [國立交通大學資訊學院招生系統](https://admission.cs.nycu.edu.tw/)
     (non open source project) 
 * [OPass](https://opass.app/)
     * CCIP-Puzzle-Chocolate
