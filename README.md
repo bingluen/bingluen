@@ -8,24 +8,24 @@
 * 元智大學 資服處系統開發組 R&D / R&D of Library and Information Services of YZU (2013)
 
 # 專案 / Project
-* [Outline](https://github.com/outline/outline){:target="_blank"} - [繁體中文翻譯](https://translate.getoutline.com/project/outline){:target="_blank"}
+* [Outline](https://github.com/outline/outline) - [繁體中文翻譯](https://translate.getoutline.com/project/outline)
 * 1922 疫苗預約系統協助
-* [RAY 4.0](https://ray.pdis.nat.gov.tw){:target="_blank"}
+* [RAY 4.0](https://ray.pdis.nat.gov.tw)
 * PDIS Chat (Custom version of Rocket.Chat)
-  * [ReactNative Mobile App](https://github.com/pdis/Rocket.Chat.Renative) ([Fork from Rocket.Chat.ReactNative](https://github.com/RocketChat/Rocket.Chat.ReactNative){:target="_blank"})
-  * [Server](https://github.com/pdis/Rocket.Chat) (Re-building from [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat){:target="_blank"} with custom translation)
+  * [ReactNative Mobile App](https://github.com/pdis/Rocket.Chat.Renative) ([Fork from Rocket.Chat.ReactNative](https://github.com/RocketChat/Rocket.Chat.ReactNative))
+  * [Server](https://github.com/pdis/Rocket.Chat) (Re-building from [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) with custom translation)
 * 振興券搶救協助
   * 浪漫客庄旅遊券
   * 動茲券
-* [eMask 2.0 口罩預約](https://emask.taiwan.gov.tw){:target="_blank"}
-    - [試營運程式碼](https://github.com/pdis/emask-static){:target="_blank"}
-* [臺灣登山申請一站式服務網](https://hike.taiwan.gov.tw){:target="_blank"}
+* [eMask 2.0 口罩預約](https://emask.taiwan.gov.tw)
+    - [試營運程式碼](https://github.com/pdis/emask-static)
+* [臺灣登山申請一站式服務網](https://hike.taiwan.gov.tw)
     - [我們如何為登山申請打造一站式服務系統
-    ](https://pdis.nat.gov.tw/zh-TW/blog/%E6%88%91%E5%80%91%E5%A6%82%E4%BD%95%E7%82%BA%E7%99%BB%E5%B1%B1%E7%94%B3%E8%AB%8B%E6%89%93%E9%80%A0%E4%B8%80%E7%AB%99%E5%BC%8F%E6%9C%8D%E5%8B%99%E7%B3%BB%E7%B5%B1/){:target="_blank"}
-* [CodiMD on Sandstorm](https://github.com/pdis/codimd-sandstorm){:target="_blank"}
-* [國立交通大學資訊學院招生系統](https://admission.cs.nctu.edu.tw/){:target="_blank"}
+    ](https://pdis.nat.gov.tw/zh-TW/blog/%E6%88%91%E5%80%91%E5%A6%82%E4%BD%95%E7%82%BA%E7%99%BB%E5%B1%B1%E7%94%B3%E8%AB%8B%E6%89%93%E9%80%A0%E4%B8%80%E7%AB%99%E5%BC%8F%E6%9C%8D%E5%8B%99%E7%B3%BB%E7%B5%B1/)
+* [CodiMD on Sandstorm](https://github.com/pdis/codimd-sandstorm)
+* [國立交通大學資訊學院招生系統](https://admission.cs.nctu.edu.tw/)
     (non open source project) 
-* [OPass](https://opass.app/){:target="_blank"}
+* [OPass](https://opass.app/)
     * CCIP-Puzzle-Chocolate
     * CCIP-Puzzle-Bueno
     * CCIP-Admin-Bueno
@@ -35,9 +35,9 @@
 
 # 開放政府專案
 * 行政院開放政府第 105 案協作會議主持-「台灣線上遊戲轉蛋法推動」連署案
-  * [https://cm.pdis.nat.gov.tw/105](https://cm.pdis.nat.gov.tw/105){:target="_blank"}
-  * [https://join.gov.tw/idea/detail/ee5dd8b8-bdeb-4d5e-8315-bb0601169d68](https://join.gov.tw/idea/detail/ee5dd8b8-bdeb-4d5e-8315-bb0601169d68){:target="_blank"}
-  * [https://issuu.com/pdis.tw/stacks/75dc445b0d954f88b6ed6777732bbeb4](https://issuu.com/pdis.tw/stacks/75dc445b0d954f88b6ed6777732bbeb4){:target="_blank"}
+  * [https://cm.pdis.nat.gov.tw/105](https://cm.pdis.nat.gov.tw/105)
+  * [https://join.gov.tw/idea/detail/ee5dd8b8-bdeb-4d5e-8315-bb0601169d68](https://join.gov.tw/idea/detail/ee5dd8b8-bdeb-4d5e-8315-bb0601169d68)
+  * [https://issuu.com/pdis.tw/stacks/75dc445b0d954f88b6ed6777732bbeb4](https://issuu.com/pdis.tw/stacks/75dc445b0d954f88b6ed6777732bbeb4)
 
 ## 社群參與 / Community
 * COSCUP 2019 資訊組志工
@@ -62,24 +62,24 @@
 
 ## 2017
 
-* SITCON 2017 - 校園資訊系統的困境與嘗試改善[YouTube](https://youtu.be/1N3HZsPzKrI){:target="_blank"}、[Keynote](https://drive.google.com/open?id=0B3DBMOQGIHM8bHRacUpmNWIxTzA){:target="_blank"}
+* SITCON 2017 - 校園資訊系統的困境與嘗試改善[YouTube](https://youtu.be/1N3HZsPzKrI)、[Keynote](https://drive.google.com/open?id=0B3DBMOQGIHM8bHRacUpmNWIxTzA)
 
 ## 2016
 
-* ITAC 社課 - [SASS/SCSS](https://www.icloud.com/keynote/000GPMuH7OtqT6GwjIGg3OrwA#itac-20151015-web-sass){:target="_blank"}
+* ITAC 社課 - [SASS/SCSS](https://www.icloud.com/keynote/000GPMuH7OtqT6GwjIGg3OrwA#itac-20151015-web-sass)
 * ITAC 社課 - Python 爬蟲
 * ITAC 社課 - GitHub
 
 ### 2015
-* 元智大學資傳系課輔 - [JavaScript Basic](http://slides.com/ericksonjuang/javascript_basic#/){:target="_blank"}
+* 元智大學資傳系課輔 - [JavaScript Basic](http://slides.com/ericksonjuang/javascript_basic#/)
 
 ## 2014
-* ITAC 社課 - [PHP + MySQL 新手入門](http://slides.com/ericksonjuang/itac-7-php-mysql#/){:target="_blank"}
-* ITAC 社課 - [正規表達式入門](http://slides.com/ericksonjuang/regular-expression#/){:target="_blank"}
+* ITAC 社課 - [PHP + MySQL 新手入門](http://slides.com/ericksonjuang/itac-7-php-mysql#/)
+* ITAC 社課 - [正規表達式入門](http://slides.com/ericksonjuang/regular-expression#/)
 
 ## 2013
-* 電機系學會課輔 - [C語言入門2](https://www.dropbox.com/s/eclz3ml79cjegqj/YzuEESA%20C%20Programming%20Language%20Review%20%28%E6%9C%9F%E6%9C%AB_.pptx?dl=0){:target="_blank"}
-* 電機系學會課輔 - [C語言入門](https://www.dropbox.com/s/zw79egqhgnkzmyp/YzuEESA%20C%20Programming%20Language%20Review.pptx?dl=0){:target="_blank"}
+* 電機系學會課輔 - [C語言入門2](https://www.dropbox.com/s/eclz3ml79cjegqj/YzuEESA%20C%20Programming%20Language%20Review%20%28%E6%9C%9F%E6%9C%AB_.pptx?dl=0)
+* 電機系學會課輔 - [C語言入門](https://www.dropbox.com/s/zw79egqhgnkzmyp/YzuEESA%20C%20Programming%20Language%20Review.pptx?dl=0)
 
 <!--
 **bingluen/bingluen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
