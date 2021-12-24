@@ -4,7 +4,6 @@
 * 交大資工系資訊中心（計算機中心）Web 組組長 / 2018 ~ 2019
 * 青年學生體檢政府網站專案 / Rescue Action by Youth .gov / 2017
 * 玉山銀行資訊處實習生 2016 / ESUN BANK intern
-* 元智大學 電機系學會 2013 學術長 / Academic Affairs Director of YZU EESA 2013
 * 元智大學 資服處系統開發組 R&D / R&D of Library and Information Services of YZU (2013)
 
 # 專案 / Project
